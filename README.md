@@ -1,4 +1,4 @@
-# AN E-COMMERCE COMPANY'S PATH TO SUSTAINABLE GROWTH
+# **AN E-COMMERCE COMPANY'S PATH TO SUSTAINABLE GROWTH**
 
 ![Image](https://github.com/user-attachments/assets/86abf952-5116-45c3-994b-213f3db7dca3)
 
@@ -33,7 +33,7 @@
 - Additionally, 18-22% of the orders are stuck in shipping mode, causing significant delivery delays.
 - Some orders show an extremely high return rate of 10,000%, highlighting frequent returns.
 
-# Reccommndation:
+# Recommendation:
 - Expand the "Set" and "Dupatta" categories, as they have high demand and drive major sales.
 - Introduce bundle offers to increase average order value.
 - Optimize shipping processes to reduce the 18-22% delay rate.
