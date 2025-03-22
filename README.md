@@ -1,5 +1,7 @@
 # AN E-COMMERCE COMPANY'S PATH TO SUSTAINABLE GROWTH
 
+![Image](https://github.com/user-attachments/assets/86abf952-5116-45c3-994b-213f3db7dca3)
+
    # Background:
   The e-commerce company is facing multiple  operational challenges that hinder growth and customer satisfaction.To address these issues, the company is leveraging data-driven insights to optimize
  operations.
